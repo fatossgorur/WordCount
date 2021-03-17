@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1609788063 source:c:\users\fatos\desktop\c projeleri\wordcount\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
+1609788063 source:c:\users\fatos\desktop\wordcount\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
+1609788063 source:c:\users\fatos\desktop\dersler\wordcount\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<locale.h>
+
